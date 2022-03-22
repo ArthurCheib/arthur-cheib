@@ -10,8 +10,8 @@ params:
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Matt
-    text2: Dancho
+    text1: Arthur
+    text2: Cheib
   plugins:
     css:
       - URL: css/main.css
@@ -27,9 +27,6 @@ params:
     - client-and-work
     - experience
     - education
-    - testimonial
-    - contact
-    - newsletter
 menu:
   footer:
     - URL: '#about'

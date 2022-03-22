@@ -51,24 +51,20 @@ theme = "raditian-free-hugo-theme"
   URL = "#portfolio"
   weight = 3
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
 
 
 [params]
 
-  sections = ["showcase", "about", "client-and-work", "experience", "education",  "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "client-and-work", "experience", "education", "contact", "newsletter"]
 
   googleAnalyticsID = "" 
 
   [params.logo]
-    text1 = "Matt"
-    text2 = "Dancho"
+    text1 = "Arthur"
+    text2 = "Cheib"
 
   [params.footer]
-      copyright = "© Matt Dancho. All rights reserved."
+      copyright = "© Arthur Cheib. All rights reserved."
       [params.footer.site_logo]
         x = "img/general/business-science-logo.png"
         _2x = "img/general/business-science-logo.png"
