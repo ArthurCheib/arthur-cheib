@@ -8,11 +8,11 @@ showcase:
   subtitle: "Public Policy Specialist"
   description: "Arthur is a Master of Public Policy candidate of the <a target='_blank' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a> at the University of Chicago."
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/freedom-gif.gif"
+    _2x: "img/showcase/freedom-gif.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/freedom-gif.gif"
+    _2x: "img/showcase/freedom-gif.gif"
     
   button:
     icon: "icon-mail-fill"
