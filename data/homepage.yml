@@ -7,13 +7,7 @@ showcase:
   title: "Hello, I’m Arthur Cheib."
   subtitle: "Public Policy Specialist"
   description: "Arthur is a Master of Public Policy candidate of the <a target='_blank' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a> at the University of Chicago."
-  image:
-    x: "img/showcase/freedom-gif.gif"
-    _2x: "img/showcase/freedom-gif.gif"
-  imageMobile:
-    x: "img/showcase/freedom-gif.gif"
-    _2x: "img/showcase/freedom-gif.gif"
-    
+
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Arthur"
@@ -131,6 +125,17 @@ client_and_work:
         _2x: "img/works/seduc-sintese.png"
       is_even: true
       
+    - title: "Exploratory Data Analysis of Freedom in the World Index"
+      description: "In this Exploratory Data Analysis (EDA) I cleaned and then analyzed the dataset contained in Freedom House annual report."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Check EDA"
+        URL: "https://github.com/ArthurCheib/analytical-politics-project/blob/main/README.md"
+      image:
+        x: "img/works/freedom-gif.gif"
+        _2x: "img/works/freedom-gif.gif"
+      is_even: false
+      
     - title: "Regressing salaries in Brazilian Public Sector"
       description: "This research studies the main independent variables that explains the salaries of Minas Gerais's Government second best career track."
       button:
@@ -140,4 +145,4 @@ client_and_work:
       image:
         x: "img/works/piramide-salarial.png"
         _2x: "img/works/piramide-salarial.png"
-      is_even: false
+      is_even: true
