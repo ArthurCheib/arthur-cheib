@@ -5,8 +5,8 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Arthur Cheib."
-  subtitle: "Public Policy Specialist and Data Scientist"
-  description: "Arthur is a Master of Public Policy candidate of the <a target='_blank' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a>, at the University of Chicago."
+  subtitle: "Public Policy Specialist"
+  description: "Arthur is a Master of Public Policy candidate of the <a target='_blank' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a> at the University of Chicago."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -39,7 +39,7 @@ about:
     or building software, I enjoy vacationing with my family and friends. 
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
+    <strong>My area of focus</strong> is applying data science to decision-making. 
     I create value for companies by understanding the financial
     cost of problems and delivering a return-on-investment with my solutions. 
     I enjoy learning, working with stakeholders, and making better decisions with data.
@@ -56,28 +56,28 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 5+ years of experience working in the Private, Non-Profit and Public sectors improving decision making and evidence based strategies."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/arthurcheib/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/resume-matt.pdf"
+    URL: "/cv/resume-ach.pdf"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Head of Research"
+      company: "Oficina Municipal - Brazilian Think Thank"
+      duration: "Fev 2020 - Aug 2021"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Data Scientist"
+      company: "Secretariat of Education of Minas Gerais (Brazil)"
+      duration: "Dec 2017 - Jan 2020"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Executive Director"
+      company: "Institute of Educational and Social Promotion"
+      duration: "Dec 2016 - Nov 2017"
 
 # education
 education:
