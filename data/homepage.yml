@@ -7,7 +7,13 @@ showcase:
   title: "Hello, I’m Arthur Cheib."
   subtitle: "Public Policy Specialist"
   description: "Arthur is a Master of Public Policy candidate of the <a target='_blank' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a> at the University of Chicago."
-
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+    
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Arthur"
@@ -123,7 +129,7 @@ client_and_work:
       image:
         x: "img/works/seduc-sintese.png"
         _2x: "img/works/seduc-sintese.png"
-      is_even: false
+      is_even: true
       
     - title: "Regressing salaries in Brazilian Public Sector"
       description: "This research studies the main independent variables that explains the salaries of Minas Gerais's Government second best career track."
