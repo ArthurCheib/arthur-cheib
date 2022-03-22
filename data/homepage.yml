@@ -7,12 +7,6 @@ showcase:
   title: "Hello, I’m Arthur Cheib."
   subtitle: "Public Policy Specialist"
   description: "Arthur is a Master of Public Policy candidate of the <a target='_blank' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a> at the University of Chicago."
-  image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
-  imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -42,7 +36,6 @@ about:
     <strong>My area of focus</strong> is applying data science to decision-making. 
     I create value for companies by understanding the financial
     cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -97,38 +90,6 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
-  enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
 
   works:
     - title: "Sales Demand Forecast Application"
