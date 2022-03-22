@@ -55,7 +55,7 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "client-and-work", "experience", "education", "contact", "newsletter"]
+  sections = ["showcase", "about", "client-and-work", "experience", "education",]
 
   googleAnalyticsID = "" 
 

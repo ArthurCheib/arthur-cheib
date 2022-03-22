@@ -29,7 +29,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    <strong>My professional goal is to improve how decisions are taken in the Public Sector.</strong> My passion is training. But, when I am not making new courses
     or building software, I enjoy vacationing with my family and friends. 
     </p>
     <p class="lead">
@@ -92,26 +92,46 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Analyzing Chicago's new speed limit Policy"
+      description: "This policy memo helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        btnText: "Check the Map"
+        URL: "https://rpubs.com/Arthur_Cheib/chicago-trafic"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/camera-violations.png"
+        _2x: "img/works/camera-violations.png"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Studying Brazil's municipalities regional economic development"
+      description: "This research aimed to understand how Brazilian's municipalities in the State of São Paulo make usse of an legal/institutional arrangement - 'Consórcios' - to coordinate their regional political and economic development."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "Check Research"
+        URL: "https://mapadosconsorcios.com/wp-content/uploads/2021/08/Mapa-dos-Consorcios-2020-2021-Oficina-Municipal.pdf"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/mapa-consorcios.png"
+        _2x: "img/works/mapa-consorcios.png"
       is_even: false
-
-  
+      
+    - title: "Analyzing student's dropout rate in Brazilian public schools"
+      description: "The winning analysis I've done for the National Data Education Challenge, promoted by São Paulo's State Secretariat of Education tried to capture how the turnout rate of a school's directive team (Principal, Associate Principal and Secretary) affects students score in public standardized tests (IDEB)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Check the analysis"
+        URL: "https://drive.google.com/file/d/1vOnUKMtejqZwU7NkRa9etXvbq9Zd1YOx/view"
+      image:
+        x: "img/works/seduc-sintese.png"
+        _2x: "img/works/seduc-sintese.png"
+      is_even: false
+      
+    - title: "Regressing salaries in Brazilian Public Sector"
+      description: "This research studies the main independent variables that explains the salaries of Minas Gerais's Government second best career track."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "(On going Research)"
+        URL: "https://github.com/ArthurCheib/careerpayment/blob/master/README.md"
+      image:
+        x: "img/works/piramide-salarial.png"
+        _2x: "img/works/piramide-salarial.png"
+      is_even: false
