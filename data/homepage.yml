@@ -146,3 +146,14 @@ client_and_work:
         x: "img/works/piramide-salarial.png"
         _2x: "img/works/piramide-salarial.png"
       is_even: true
+      
+          - title: "Graduate Teaching Assistant - Teaching Experience"
+      description: "This is the material I prepared as a data scientist teaching data analysis and programming in R in the public sector as well as my experience as a TA for the Data Analytics Credential at the Harris School of Public Policy (University of Chicago)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See the material"
+        URL: "https://github.com/ArthurCheib/teaching-experience"
+      image:
+        x: "img/works/teaching-experience.png"
+        _2x: "img/works/teaching-experience.png"
+      is_even: false
