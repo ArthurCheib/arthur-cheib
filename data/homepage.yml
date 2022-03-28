@@ -147,7 +147,7 @@ client_and_work:
         _2x: "img/works/piramide-salarial.png"
       is_even: true
       
-          - title: "Graduate Teaching Assistant - Teaching Experience"
+    - title: "Graduate Teaching Assistant - Teaching Experience"
       description: "This is the material I prepared as a data scientist teaching data analysis and programming in R in the public sector as well as my experience as a TA for the Data Analytics Credential at the Harris School of Public Policy (University of Chicago)."
       button:
         icon: "icon-arrow-right"
