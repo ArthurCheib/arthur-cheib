@@ -29,13 +29,11 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>My professional goal is to improve how decisions are taken in the Public Sector.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    <strong>My professional goal is to improve how decisions are taken in the Public Sector.</strong> Whenever I'm not making any data anaylsis or teaching R, I enjoy vacationing with my family and friends. 
     </p>
     <p class="lead">
     <strong>My area of focus</strong> is applying data science to decision-making. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
+    I create value for public institutions by understanding the data problems behind their daily activities and deliver a well structured analysis as part of my solution. 
     </p>
   button:
     icon: "icon-smile-fill"
