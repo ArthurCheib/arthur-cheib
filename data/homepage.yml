@@ -91,7 +91,7 @@ client_and_work:
 
   works:
     - title: "Analyzing Chicago's new speed limit Policy"
-        description: "This policy memo analyzes the economic effectiveness of Chicago's new speed limit policy through a spatial analysis of the city's speed cameras and accidents."
+      description: "This policy memo analyzes the economic effectiveness of Chicago's new speed limit policy through a spatial analysis of the city's speed cameras and accidents."
       button:
         icon: "icon-arrow-right"
         btnText: "Check the Map"
